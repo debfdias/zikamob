@@ -1,0 +1,206 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:1:1-27:12
+MERGED from [com.facebook.react:react-native:0.58.4] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\react-native-0.58.4.aar\17983d5d7a880785ef6994b74a716d4e\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\3a3e0a95371824ce5da3f44a80cc7b46\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a8254ff3f53096a0562c0ad8c01dfb44\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\98776e84376b3c347f4f6f1a12396f96\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\5279200169b988eebf175a56e5a44221\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\a4f0803a9a3610c1fe8cd80c54700fd0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\485077fb65e797d0ad1e614e27a01619\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\4b74b03d21d6828cd322d042bd1fdb8e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\76c90522576f02cce73cb13ccef10388\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9bfbe9d15cc9b9bb774d168b4ccb634e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\c51d3c0c25d37e388d3875205a8857ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\66e835d6512dd6069bd266b3cff7b2ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\80ef0fecd547294fbc6db40e9002e6ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\751d0118a382e8c9b5acf094bd983694\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\32e3d0605c2bcab69d17579a3b385c13\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b17d23712aef95ff12f1177e717d5897\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ee32e3872757c9ee86bc0fa2a53c00eb\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\7edcf593afa61ac3244aff092f9aaa97\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\539d4f8217739f2c01329de8bb1c3502\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\017bbe5dad3d2cecc2260f911cc051e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\e77e47beca0bba959561433fee20a1da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ea146005e5aa65e40750bcab74ce5497\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\85694ed4df679c2ddcf5dbc685130840\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\6072f5b45cd36fcf2c6f8022f800ae9b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\3b4793cab5884a24ca8f95c52cfd2f7e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3b048e8e987878a2219be14e6baa5249\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ba9c28aabce383ea461a17e71f60e7a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\5734448e3fa09f86700e54ba9495fcd7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\c4ab3f0ba175603d78e06ebab80cb162\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\dcb1333e549f1108e38b07b8a5984b48\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\936fb7cb870b9f3b2a6081cdfa6bf3cb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\f1e59feed089b837d6da2c64c941d657\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\4d0cf25ca519d4f1124f8ab2e19201eb\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\3f203cba33cd5fa00a04f6756e797ef3\AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\c48b3ee827095b90fcc457c0fae7c093\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:2:5-26
+		INJECTED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.58.4] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\react-native-0.58.4.aar\17983d5d7a880785ef6994b74a716d4e\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.58.4] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\react-native-0.58.4.aar\17983d5d7a880785ef6994b74a716d4e\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:5:22-75
+application
+ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:7:5-25:19
+MERGED from [com.facebook.react:react-native:0.58.4] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\react-native-0.58.4.aar\17983d5d7a880785ef6994b74a716d4e\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.58.4] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\react-native-0.58.4.aar\17983d5d7a880785ef6994b74a716d4e\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b17d23712aef95ff12f1177e717d5897\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b17d23712aef95ff12f1177e717d5897\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ee32e3872757c9ee86bc0fa2a53c00eb\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ee32e3872757c9ee86bc0fa2a53c00eb\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\4d0cf25ca519d4f1124f8ab2e19201eb\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\4d0cf25ca519d4f1124f8ab2e19201eb\AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\3f203cba33cd5fa00a04f6756e797ef3\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\3f203cba33cd5fa00a04f6756e797ef3\AndroidManifest.xml:2:3-17
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b17d23712aef95ff12f1177e717d5897\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:9:7-39
+	android:roundIcon
+		ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:11:7-52
+	android:icon
+		ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:13:7-38
+	android:name
+		ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:8:7-38
+activity#com.zikamob.MainActivity
+ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:14:7-23:18
+	android:label
+		ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:16:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.58.4] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\react-native-0.58.4.aar\17983d5d7a880785ef6994b74a716d4e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.4] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\react-native-0.58.4.aar\17983d5d7a880785ef6994b74a716d4e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\3a3e0a95371824ce5da3f44a80cc7b46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\3a3e0a95371824ce5da3f44a80cc7b46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a8254ff3f53096a0562c0ad8c01dfb44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a8254ff3f53096a0562c0ad8c01dfb44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\98776e84376b3c347f4f6f1a12396f96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\98776e84376b3c347f4f6f1a12396f96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\5279200169b988eebf175a56e5a44221\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\5279200169b988eebf175a56e5a44221\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\a4f0803a9a3610c1fe8cd80c54700fd0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\a4f0803a9a3610c1fe8cd80c54700fd0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\485077fb65e797d0ad1e614e27a01619\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\485077fb65e797d0ad1e614e27a01619\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\4b74b03d21d6828cd322d042bd1fdb8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\4b74b03d21d6828cd322d042bd1fdb8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\76c90522576f02cce73cb13ccef10388\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\76c90522576f02cce73cb13ccef10388\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9bfbe9d15cc9b9bb774d168b4ccb634e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9bfbe9d15cc9b9bb774d168b4ccb634e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\c51d3c0c25d37e388d3875205a8857ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\c51d3c0c25d37e388d3875205a8857ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\66e835d6512dd6069bd266b3cff7b2ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\66e835d6512dd6069bd266b3cff7b2ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\80ef0fecd547294fbc6db40e9002e6ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\80ef0fecd547294fbc6db40e9002e6ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\751d0118a382e8c9b5acf094bd983694\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\751d0118a382e8c9b5acf094bd983694\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\32e3d0605c2bcab69d17579a3b385c13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\32e3d0605c2bcab69d17579a3b385c13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b17d23712aef95ff12f1177e717d5897\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b17d23712aef95ff12f1177e717d5897\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ee32e3872757c9ee86bc0fa2a53c00eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ee32e3872757c9ee86bc0fa2a53c00eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\7edcf593afa61ac3244aff092f9aaa97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\7edcf593afa61ac3244aff092f9aaa97\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\539d4f8217739f2c01329de8bb1c3502\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\539d4f8217739f2c01329de8bb1c3502\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\017bbe5dad3d2cecc2260f911cc051e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\017bbe5dad3d2cecc2260f911cc051e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\e77e47beca0bba959561433fee20a1da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\e77e47beca0bba959561433fee20a1da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ea146005e5aa65e40750bcab74ce5497\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ea146005e5aa65e40750bcab74ce5497\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\85694ed4df679c2ddcf5dbc685130840\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\85694ed4df679c2ddcf5dbc685130840\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\6072f5b45cd36fcf2c6f8022f800ae9b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\6072f5b45cd36fcf2c6f8022f800ae9b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\3b4793cab5884a24ca8f95c52cfd2f7e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\3b4793cab5884a24ca8f95c52cfd2f7e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3b048e8e987878a2219be14e6baa5249\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3b048e8e987878a2219be14e6baa5249\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ba9c28aabce383ea461a17e71f60e7a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ba9c28aabce383ea461a17e71f60e7a5\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\5734448e3fa09f86700e54ba9495fcd7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\5734448e3fa09f86700e54ba9495fcd7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\c4ab3f0ba175603d78e06ebab80cb162\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\c4ab3f0ba175603d78e06ebab80cb162\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\dcb1333e549f1108e38b07b8a5984b48\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\dcb1333e549f1108e38b07b8a5984b48\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\936fb7cb870b9f3b2a6081cdfa6bf3cb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\936fb7cb870b9f3b2a6081cdfa6bf3cb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\f1e59feed089b837d6da2c64c941d657\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\f1e59feed089b837d6da2c64c941d657\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\4d0cf25ca519d4f1124f8ab2e19201eb\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\4d0cf25ca519d4f1124f8ab2e19201eb\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\c48b3ee827095b90fcc457c0fae7c093\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Debora Dias\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\c48b3ee827095b90fcc457c0fae7c093\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Debora Dias\Desktop\zikamob\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
